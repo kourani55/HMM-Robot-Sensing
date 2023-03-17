@@ -1,4 +1,5 @@
 # HMM-Robot-Sensing
 
-HMM Algorithm using Robot Localization 
+Hidden Markov Model Algorithm using Robot Localization
 
+This project was created using Java and Intellij IDE
